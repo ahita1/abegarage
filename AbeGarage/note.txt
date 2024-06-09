@@ -1,0 +1,2 @@
+1,backend lay password must be greater than 6
+2, all  fields are required malet alebet

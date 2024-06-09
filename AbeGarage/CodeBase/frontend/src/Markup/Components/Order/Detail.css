@@ -1,0 +1,16 @@
+.order-info {
+  display: flex;
+  width: 300px; /* Adjust this width as needed */
+}
+
+.order-info p {
+  margin: 5px 0;
+}
+
+.order-info p:first-child {
+  width: 150px; /* Half of the width for the label */
+}
+
+.order-info p:last-child {
+  width: 150px; /* Half of the width for the value */
+}
